@@ -29,7 +29,7 @@ npm run dev
 
 
 ## React App run command
-
+Goto frontend directory and run command
 ```
 npm run dev
 ```
